@@ -12,8 +12,8 @@
 - [AWS Well Architected](https://aws.amazon.com/architecture/well-architected)
 
 ## Design Tools
-- [yEd](https://www.yworks.com/products/yed)
-- [Plant UML](https://plantuml.com/)
+- [yEd (Architecture)](https://www.yworks.com/products/yed)
+- [Plant UML(Sequence & UML)](https://plantuml.com/)
 
 ## Videos
 - [Free Code Camp](https://www.youtube.com/c/Freecodecamp/videos)
