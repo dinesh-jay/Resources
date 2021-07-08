@@ -8,6 +8,15 @@
 - [Code Byte](https://coderbyte.com/)
 - [Free Code Camp](https://www.freecodecamp.org)
 
+### Amazon
+- [AWS Well Architected](https://aws.amazon.com/architecture/well-architected)
+
 ## Design Tools
 - [yEd](https://www.yworks.com/products/yed)
 - [Plant UML](https://plantuml.com/)
+
+## Videos
+- [Free Code Camp](https://www.youtube.com/c/Freecodecamp/videos)
+- [InfoQ](https://www.youtube.com/nctv/videos)
+- [Devoxx](https://www.youtube.com/c/Devoxx2015/videos)
+
