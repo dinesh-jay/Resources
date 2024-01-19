@@ -8,8 +8,9 @@
 - [Code Byte](https://coderbyte.com/)
 - [Free Code Camp](https://www.freecodecamp.org)
 
-### Amazon
+### Design Resources
 - [AWS Well Architected](https://aws.amazon.com/architecture/well-architected)
+- [Azure Cloud Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/#catalog-of-patterns)
 
 ## Design Tools
 - [yEd (Architecture)](https://www.yworks.com/products/yed)
