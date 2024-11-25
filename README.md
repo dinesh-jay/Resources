@@ -22,3 +22,10 @@
 - [InfoQ](https://www.youtube.com/nctv/videos)
 - [Devoxx](https://www.youtube.com/c/Devoxx2015/videos)
 
+## Interview Prep
+- [NeetCode](https://neetcode.io/)
+- [Leetcode](https://leetcode.com)
+- [Hellointerview](https://www.hellointerview.com/)
+- [Educative.io](https://www.educative.io/)
+- [Inteview School](https://interviews.school/)
+- [Guide](https://interviewguide.dev/)
