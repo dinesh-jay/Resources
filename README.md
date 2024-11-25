@@ -15,6 +15,7 @@
 ## Design Tools
 - [yEd (Architecture)](https://www.yworks.com/products/yed)
 - [Plant UML(Sequence & UML)](https://plantuml.com/)
+- [Excalidraw](https://excalidraw.com/)
 
 ## Videos
 - [Free Code Camp](https://www.youtube.com/c/Freecodecamp/videos)
